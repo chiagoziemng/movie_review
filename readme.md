@@ -32,7 +32,7 @@ Getting Started
 
 To set up the MovieReview Website locally, follow these steps:
 1. Clone the repository:
-    git clone https://github.com/your-username/movie-review-website.git
+    git clone https://github.com/chiagoziemng/movie_review.git
 
 2. Install the project dependencies:
 cd movie-review-website
