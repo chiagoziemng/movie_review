@@ -2,6 +2,10 @@
 
 The MovieReview Website is a basic web application built using the Django web framework and Bootstrap. It provides a platform for movie enthusiasts to share their reviews, ratings, and recommendations for various films. This website aims to create a user-friendly and visually appealing experience for users to discover new movies, engage in discussions, and make informed decisions about what to watch next.
 
+![My Image](./moviereview/static/images/1.png)
+![My Image](./moviereview/static/images/2.png)
+
+
 Features
 
 Movie Database: The website leverages a comprehensive movie database to offer a wide range of movies for users to explore. Each movie listing includes essential information such as title, genre, release date, and synopsis.
